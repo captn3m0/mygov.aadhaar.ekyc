@@ -10,3 +10,5 @@ The dissasembly pipeline is:
 
 1. APK->JAR using both enjarify and dex2jar
 2. JAR dissassembled using jd-gui
+
+The current `HEAD` does not contain any third-party classes, only what is in the `mygov.aadhaar.ekyc` package. If you are looking for them, checkout the first commit of the repo.
